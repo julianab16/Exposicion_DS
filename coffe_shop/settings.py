@@ -130,3 +130,5 @@ AUTH_USER_MODEL = 'users.User'
 # Tailwind
 CRISPY_ALLOWED_TEMPLATE_PACKS = "tailwind"
 CRISPY_TEMPLATE_PACK = "tailwind"
+
+TEST_DISCOVERY_ROOT = "tests"
