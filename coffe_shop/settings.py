@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'apps.users',
     'apps.products',
-     "crispy_tailwind",
+    "crispy_tailwind",
 ]
 
 MIDDLEWARE = [
